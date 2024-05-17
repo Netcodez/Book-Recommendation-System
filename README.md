@@ -3,7 +3,7 @@ Book Recommendation System  - NLP
 
 # Darwin's Bibliography: A Content-Based Book Recommendation System
 
-![Charles Darwin](https://assets.datacamp.com/production/project_607/img/CharlesDarwin.jpg)
+<p><img src="https://assets.datacamp.com/production/project_607/img/CharlesDarwin.jpg" alt="Charles Darwin" width="300px"></p>
 
 ## Project Overview
 
